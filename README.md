@@ -2,9 +2,15 @@
  Data science projects completed by me for academic, self learning, and hobby purposes.
  ##Contents
   
-  - ## Machine learning 
+ - ### Micro Projects: 
 
-       - [Supervised Learning: Finding Donors for CharityML](https://github.com/Ravikeethi/Data-Specialist/blob/main/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+	- __Python__
+		- [ML with Logistic Regression](https://github.com/Ravikeethi/Data-Specialist/blob/main/Machine%20Learning%20Basic%20Algorthims/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+		- [ML with K Nearest Neighbours](https://github.com/Ravikeethi/Data-Specialist/blob/main/Machine%20Learning%20Basic%20Algorthims/ML%20with%20K%20Nearest%20Neighbors.ipynb): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
+		- [ML with Decision Trees and Random Forests](https://github.com/Ravikeethi/Data-Specialist/blob/main/Machine%20Learning%20Basic%20Algorthims/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
+		- [Movie Recommendations using Recommender Systems](https://github.com/Ravikeethi/Data-Specialist/blob/main/Machine%20Learning%20Basic%20Algorthims/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
+
+	  
        
        
 - ### Natural Language Processing
@@ -14,7 +20,4 @@
 
 	_Tools: NLTK, scikit_
 
-- ### Data Analysis and Visualisation
-	- __Python__
-	
-	 -[Stock Market Analysis for Tech Stocks](https://github.com/Ravikeethi/Data-Specialist/blob/main/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+
