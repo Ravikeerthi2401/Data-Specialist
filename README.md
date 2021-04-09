@@ -10,6 +10,11 @@
 - ### Natural Language Processing
 
 	- [3-way Sentiment Analysis for Tweets](https://github.com/Ravikeethi/Data-Specialist/blob/main/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine. 
-	- - [Cross language Information Retrieval](https://github.com/Ravikeethi/Data-Specialist/blob/main/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+	- [Cross language Information Retrieval](https://github.com/Ravikeethi/Data-Specialist/blob/main/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
 
 	_Tools: NLTK, scikit_
+
+- ### Data Analysis and Visualisation
+	- __Python__
+	
+	 -[Stock Market Analysis for Tech Stocks](https://github.com/Ravikeethi/Data-Specialist/blob/main/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
